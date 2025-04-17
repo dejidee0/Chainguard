@@ -111,7 +111,7 @@ const Table = () => {
         </div>
       </div>
       <Image
-        src={"/images/Table/Untitled.svg"}
+        src={"/images/table/Untitled.svg"}
         alt="ellipse"
         width={2460}
         height={102}

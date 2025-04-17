@@ -42,7 +42,7 @@ const Banner = () => {
                   className="bg-transparent flex justify-center items-center text-white opacity-50 cursor-not-allowed"
                 >
                   <Image
-                    src="/images/Banner/playbutton.svg"
+                    src="/images/banner/playbutton.svg"
                     alt="button-image"
                     className="mr-3 grayscale"
                     width={47}
