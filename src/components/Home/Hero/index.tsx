@@ -54,7 +54,7 @@ const Banner = () => {
             </div>
             <div className="col-span-5 lg:-m-48">
               <Image
-                src="/images/Banner/banner.png"
+                src="/images/banner/banner.png"
                 alt="nothing"
                 width={1013}
                 height={760}
