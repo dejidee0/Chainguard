@@ -34,21 +34,21 @@ export const workdata: {
 }[] = [
   {
     imgSrc: "/images/work/icon-one.svg",
-    heading: "Create Your Wallet",
+    heading: "Connect Your Wallet",
     subheading:
-      "Sign up and set up your secure crypto wallet in minutes. Manage all your digital assets from one powerful dashboard.",
+      "Easily connect your existing wallet. We provide real-time risk analysis and transaction monitoring to keep your assets safe during any DApp interaction.",
   },
   {
     imgSrc: "/images/work/icon-two.svg",
-    heading: "Explore Crypto Markets",
+    heading: "Transact With Confidence",
     subheading:
-      "Dive into real-time crypto data, track trends, and discover promising tokens. Access the tools you need to make smart, informed decisions.",
+      "Before you sign, we scan smart contracts and flag potential threats. Know exactly what you're approving and reduce exposure to scams and exploits.",
   },
   {
     imgSrc: "/images/work/icon-three.svg",
-    heading: "Trade & Withdraw Instantly",
+    heading: "Stay Protected Always",
     subheading:
-      "Swap between tokens or cash out your crypto anytime. Enjoy lightning-fast transactions with low fees and top-tier security.",
+      "Our background monitoring alerts you to suspicious activity—even after the transaction. Get peace of mind knowing you're covered beyond the click.",
   },
 ];
 
